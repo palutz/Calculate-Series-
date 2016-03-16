@@ -1,0 +1,9 @@
+lib/debug
+lib/release
+Debug
+*.suo
+*.user
+*.dll
+obj
+bin
+packages
