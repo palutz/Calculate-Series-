@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ConsoleTest/ConsoleTest.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleTest/Program.fs">
+    <Files>
+      <File FileName="CalcSeriesCore/calcseries.fs" Line="43" Column="128" />
+      <File FileName="ConsoleTest/Program.fs" Line="3" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

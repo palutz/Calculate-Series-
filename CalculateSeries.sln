@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "CalcSeriesCore", "CalcSeriesCore\CalcSeriesCore.fsproj", "{31428EB6-912C-4D8A-ADD7-98D2022D7067}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "ConsoleTest", "ConsoleTest\ConsoleTest.fsproj", "{0413C0E1-E2C8-48CC-B52F-54E10486024C}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "CalculationTest", "CalculationTest\CalculationTest.fsproj", "{8C8E5A33-0A49-4868-B98A-95F301BC8E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0413C0E1-E2C8-48CC-B52F-54E10486024C}.Debug|x86.ActiveCfg = Debug|x86
+		{0413C0E1-E2C8-48CC-B52F-54E10486024C}.Debug|x86.Build.0 = Debug|x86
+		{0413C0E1-E2C8-48CC-B52F-54E10486024C}.Release|x86.ActiveCfg = Release|x86
+		{0413C0E1-E2C8-48CC-B52F-54E10486024C}.Release|x86.Build.0 = Release|x86
+		{31428EB6-912C-4D8A-ADD7-98D2022D7067}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{31428EB6-912C-4D8A-ADD7-98D2022D7067}.Debug|x86.Build.0 = Debug|Any CPU
+		{31428EB6-912C-4D8A-ADD7-98D2022D7067}.Release|x86.ActiveCfg = Release|Any CPU
+		{31428EB6-912C-4D8A-ADD7-98D2022D7067}.Release|x86.Build.0 = Release|Any CPU
+		{8C8E5A33-0A49-4868-B98A-95F301BC8E7C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8C8E5A33-0A49-4868-B98A-95F301BC8E7C}.Debug|x86.Build.0 = Debug|Any CPU
+		{8C8E5A33-0A49-4868-B98A-95F301BC8E7C}.Release|x86.ActiveCfg = Release|Any CPU
+		{8C8E5A33-0A49-4868-B98A-95F301BC8E7C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
