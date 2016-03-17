@@ -4,6 +4,7 @@ Debug
 *.suo
 *.user
 *.dll
+*.userprefs
 obj
 bin
 packages
