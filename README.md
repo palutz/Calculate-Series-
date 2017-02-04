@@ -1,8 +1,10 @@
 # Calculate Series
 
 1. Calculate a single series of numbers given the following requirements:
+
   a. The first number is calculated given the following function (which accepts a parameter ‘x’):
     ((0.5 * x^2) + (30 * x) + 10) / 25
+    
   b. A growth rate for the series is calculated using the following function (which accepts parameters ‘y’ and the first number from a.):
     (2% of y)/25/(firstNumber)
   c. The overall series is calculated using a function that accepts three parameters firstNumber – the number from a.
