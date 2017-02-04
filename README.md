@@ -31,17 +31,34 @@ Please provide unit tests to verify that your application is calculating correct
 Please make sure your solution runs, if there are any special instructions to build, or run the solution please also let us know.
 
 Part 1)
+
 a. when x = 1, firstNumber = 1.62
+
 b. when y = 5062.5, growthRate = 2.5 c, d when length = 5 the series is:
+
 1.62
+
 4.05
+
 6.561 10.62882 17.2186884
+
+
+
 e. rounded:
+
 1.5
+
 4
+
 6.5 10.75 17.25
+
+
+
 Part 2)
+
 a. 6.5 is special
+
 b. for y = 1000 and z = 160
+
 approximateNumber = 6.25, which makes 6.5 special.
 
